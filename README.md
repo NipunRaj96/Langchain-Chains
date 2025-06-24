@@ -8,7 +8,7 @@ This repository captures my experiments with **Langchain chains** — exploring 
 
 - **Runnable Chains**  
   Built multiple chain types using:
-  - `RunnableSequence` for step-by-step execution
+  - `RunnableSequence` for step-by-step executioscacsabciac
   - `RunnableParallel` for concurrent processing
   - `RunnableBranch` for condition-based execution
 
